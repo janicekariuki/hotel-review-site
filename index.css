@@ -1,0 +1,27 @@
+.hotel-card {
+    border: 1px solid  black;
+    border-radius: 1rem;
+    padding: 1rem;
+    background: olivedrab;
+    cursor: pointer;
+    transition: box-shadow 0.3s ease;
+    
+  }
+  .hotel-card:hover {
+    box-shadow: 0 4px 12px burlywood;
+  }
+  .hotel-details {
+    background: #fff;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    margin-top: 2rem;
+  }
+  .review {
+    background: brown;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 0.75rem;
+    margin-top: 12px;
+  }
+  
